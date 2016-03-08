@@ -10,5 +10,11 @@
     "trim_automatic_white_space": true,
     "use_tab_stops": true,
     "word_wrap": true,
-    "wrap_width": 80
+    "wrap_width": 80,
+
+     "auto_complete_triggers": [{"selector": "source.python - string - comment- constant.numeric", "characters": "."}],
+     "hide_snippets_on_completion":true,
+
+
+
 }

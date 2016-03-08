@@ -1,6 +1,8 @@
 {
 	"folder_history":
 	[
+		"/C/Users/Dave/python/PythonGuiStudy",
+		"/D/Git/PythonGuiStudy"
 	],
 	"last_version": 3103,
 	"last_window_id": 1,
@@ -15,22 +17,114 @@
 			{
 				"selected_items":
 				[
+					[
+						"QDia",
+						"QDialog	class"
+					],
+					[
+						"curr",
+						"currentText	function"
+					],
+					[
+						"is",
+						"isChecked	function"
+					],
+					[
+						"exec",
+						"exec_	function"
+					],
+					[
+						"__",
+						"__name__	instance"
+					],
+					[
+						"sty",
+						"styleComboBox	statement"
+					],
+					[
+						"width",
+						"widthSpinBox	statement"
+					],
+					[
+						"add",
+						"addWidget	function"
+					],
+					[
+						"QChec",
+						"QCheckBox	class"
+					],
+					[
+						"setA",
+						"setAlignment	function"
+					],
+					[
+						"py",
+						"pyqtSignal	class"
+					]
 				]
 			},
 			"buffers":
 			[
+				{
+					"file": "/C/Users/Dave/python/PythonGuiStudy/PyQt_Study/DialogStudy.py",
+					"settings":
+					{
+						"buffer_size": 2256,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Dave/python/PythonGuiStudy/Rapid_GUI_Programming_with_PyQt图书和源代码/chap05/pen.pyw",
+					"settings":
+					{
+						"buffer_size": 5714,
+						"line_ending": "Unix"
+					}
+				}
 			],
-			"build_system": "",
+			"build_system": "Packages/Python/Python.sublime-build",
 			"build_system_choices":
 			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
 			],
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 113.0,
-				"last_filter": "instal",
+				"height": 374.0,
+				"last_filter": "inst",
 				"selected_items":
 				[
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"tmpl",
+						"Tmpl: Create python"
+					],
 					[
 						"instal",
 						"Package Control: Install Package"
@@ -42,13 +136,9 @@
 					[
 						"install",
 						"Package Control: Install Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
 					]
 				],
-				"width": 368.0
+				"width": 496.0
 			},
 			"console":
 			{
@@ -68,12 +158,30 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/C/Users/Dave/python/PythonGuiStudy"
+			],
 			"file_history":
 			[
+				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/C/Users/Dave/python/PythonGuiStudy/Rapid_GUI_Programming_with_PyQt图书和源代码/chap04/signals.pyw",
+				"/C/Users/Dave/python/PythonGuiStudy/Rapid_GUI_Programming_with_PyQt图书和源代码/chap04/currency.pyw",
+				"/C/Users/Dave/python/PythonGuiStudy/PyQt_Study/ppm_mg_Convert.py",
+				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
+				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/Dave/Documents/test.py",
+				"/D/Git/PythonGuiStudy/PyQt_Study/SignalAndSlotEx.py",
 				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
-				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
-				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings"
 			],
 			"find":
 			{
@@ -105,11 +213,79 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\Dave\\python\\PythonGuiStudy"
+				}
+			],
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Dave/python/PythonGuiStudy/PyQt_Study/DialogStudy.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2256,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										270,
+										270
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"open_with_edit": true,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 184.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Dave/python/PythonGuiStudy/Rapid_GUI_Programming_with_PyQt图书和源代码/chap05/pen.pyw",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5714,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2649,
+										2649
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 972.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -119,7 +295,7 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 34.0
 			},
 			"layout":
 			{
@@ -144,12 +320,16 @@
 				]
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 85.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,779,427,241,1083",
+			"pinned_build_system": "Packages/Python/Python.sublime-build",
+			"position": "0,0,1,-32000,-32000,-1,-1,910,1975,120,2948",
 			"project": "",
 			"replace":
 			{
@@ -191,7 +371,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 201.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

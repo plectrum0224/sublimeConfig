@@ -17,6 +17,70 @@
 			{
 				"selected_items":
 				[
+					[
+						"F",
+						"Form	class"
+					],
+					[
+						"update",
+						"updateData	function"
+					],
+					[
+						"setCur",
+						"setCurrentIndex	function"
+					],
+					[
+						"setWindo",
+						"setWindowTitle	function"
+					],
+					[
+						"setTex",
+						"setTextFormat	function"
+					],
+					[
+						"QDia",
+						"QDialog	class"
+					],
+					[
+						"curr",
+						"currentText	function"
+					],
+					[
+						"is",
+						"isChecked	function"
+					],
+					[
+						"exec",
+						"exec_	function"
+					],
+					[
+						"__",
+						"__name__	instance"
+					],
+					[
+						"sty",
+						"styleComboBox	statement"
+					],
+					[
+						"width",
+						"widthSpinBox	statement"
+					],
+					[
+						"add",
+						"addWidget	function"
+					],
+					[
+						"QChec",
+						"QCheckBox	class"
+					],
+					[
+						"setA",
+						"setAlignment	function"
+					],
+					[
+						"py",
+						"pyqtSignal	class"
+					]
 				]
 			},
 			"buffers":
@@ -25,7 +89,7 @@
 					"file": "/C/Users/Dave/python/PythonGuiStudy/PyQt_Study/DialogStudy.py",
 					"settings":
 					{
-						"buffer_size": 172,
+						"buffer_size": 3486,
 						"line_ending": "Windows"
 					}
 				}
@@ -57,10 +121,18 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 288.0,
-				"last_filter": "tmpl",
+				"height": 374.0,
+				"last_filter": "inst",
 				"selected_items":
 				[
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
 					[
 						"tmpl",
 						"Tmpl: Create python"
@@ -76,13 +148,9 @@
 					[
 						"install",
 						"Package Control: Install Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
 					]
 				],
-				"width": 368.0
+				"width": 496.0
 			},
 			"console":
 			{
@@ -105,18 +173,31 @@
 			"expanded_folders":
 			[
 				"/C/Users/Dave/python/PythonGuiStudy",
-				"/C/Users/Dave/python/PythonGuiStudy/PyQt_Study"
+				"/C/Users/Dave/python/PythonGuiStudy/Rapid_GUI_Programming_with_PyQt图书和源代码",
+				"/C/Users/Dave/python/PythonGuiStudy/Rapid_GUI_Programming_with_PyQt图书和源代码/chap05"
 			],
 			"file_history":
 			[
+				"/C/Users/Dave/python/PythonGuiStudy/Rapid_GUI_Programming_with_PyQt图书和源代码/chap05/pen.pyw",
+				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/C/Users/Dave/python/PythonGuiStudy/Rapid_GUI_Programming_with_PyQt图书和源代码/chap04/signals.pyw",
+				"/C/Users/Dave/python/PythonGuiStudy/Rapid_GUI_Programming_with_PyQt图书和源代码/chap04/currency.pyw",
+				"/C/Users/Dave/python/PythonGuiStudy/PyQt_Study/ppm_mg_Convert.py",
+				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
+				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
 				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
 				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
 				"/C/Users/Dave/Documents/test.py",
 				"/D/Git/PythonGuiStudy/PyQt_Study/SignalAndSlotEx.py",
-				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/User/Python.sublime-settings",
 				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
-				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
-				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+				"/C/Users/Dave/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings"
 			],
 			"find":
 			{
@@ -166,24 +247,26 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 172,
+								"buffer_size": 3486,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										171,
-										171
+										1850,
+										1850
 									]
 								],
 								"settings":
 								{
+									"auto_complete": false,
 									"open_with_edit": true,
-									"syntax": "Packages/Python/Python.sublime-syntax"
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 1236.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -225,14 +308,14 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 110.0
+				"height": 214.0
 			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
 			"pinned_build_system": "Packages/Python/Python.sublime-build",
-			"position": "0,0,1,-32000,-32000,-1,-1,648,341,110,1314",
+			"position": "0,2,3,-32000,-32000,-1,-1,910,1975,120,2948",
 			"project": "",
 			"replace":
 			{
